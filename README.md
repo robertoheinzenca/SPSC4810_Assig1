@@ -1,2 +1,0 @@
-# SPSC4810_Assig1
-SPSC4810_Assignment_1
